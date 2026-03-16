@@ -48,7 +48,6 @@ I like working at the intersection of **AI + data + decentralized systems**, and
 
 * Blockchain fundamentals
 * Smart contracts
-* Stellar ecosystem
 * Wallet integration
 
 ### Tools
@@ -64,7 +63,7 @@ I like working at the intersection of **AI + data + decentralized systems**, and
 ## 📂 Projects
 
 * AI-powered chatbot with document understanding
-* Blockchain payment dApp (Stellar)
+* Blockchain payment dApp
 * Data analysis and visualization projects
 * Intelligent software tools and experiments
 
